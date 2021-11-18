@@ -6,7 +6,7 @@ class SportsBike extends MotorBike {
     
   
   public void fav() {
-    System.out.println("Duke 390");
+    System.out.println("Duke - 390");
   }
 }
 
